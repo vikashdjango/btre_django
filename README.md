@@ -1,2 +1,1 @@
-# btre_django
-Real Estate Website
+# django_project1
